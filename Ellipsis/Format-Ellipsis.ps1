@@ -116,6 +116,9 @@
   
   .LINK
    https://github.com/KillyMXI/PsEllipsisModule/ - GitHub repository
+
+  .LINK
+   http://mxii.eu.org/2016/09/03/ellipsis-function-for-powershell/ - description
 #>
 function Format-Ellipsis
 {

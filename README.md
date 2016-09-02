@@ -43,7 +43,7 @@ Take any file from "[Single_File](Single_File)" folder and dot-source it from yo
 * Type ``Get-Help Format-Ellipsis -Full`` after installing or importing module;
 * or check [Format-Ellipsis.ps1](Ellipsis/Format-Ellipsis.ps1) file;
 * and check [tests file](Tests/Ellipsis.Tests.ps1) for additional examples.
-
+* There is [short description](http://mxii.eu.org/2016/09/03/ellipsis-function-for-powershell/) in my blog.
 
 # License
 
