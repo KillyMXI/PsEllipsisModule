@@ -1,4 +1,7 @@
 
+[![Build status](https://ci.appveyor.com/api/projects/status/c3lmhuqk3tjtn0y4?svg=true)](https://ci.appveyor.com/project/KillyMXI/psellipsismodule)
+
+
 # What's this
 
 Ellipsis function to fit your paths or any other strings into screen.
